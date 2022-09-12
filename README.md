@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amandeepchaudhary
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Python's Framework Odoo.
+- 🌱 I’m currently learning Python's Framework Django.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at amanchaudhary.ac1@gmail.com 
 
