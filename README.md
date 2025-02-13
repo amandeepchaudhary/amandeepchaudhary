@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amandeepchaudhary
+- 👋 Hi, I’m @amandeepchaudhary a Professional Network Engineer.
 - 👀 I’m interested in Networking.
 - 🌱 I’m currently learning Palo Alto Firewall & Forigate.
 - 💞️ I’m looking to collaborate on Network Designing.
