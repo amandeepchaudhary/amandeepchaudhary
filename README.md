@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amandeepchaudhary
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Python's Framework Django & React.js.
-- 💞️ I’m looking to collaborate on Fullstack Development.
+- 👀 I’m interested in Networking.
+- 🌱 I’m currently learning Palo Alto Firewall & Forigate.
+- 💞️ I’m looking to collaborate on Network Designing.
 - 📫 Reach me at amanchaudhary.ac1@gmail.com 
 - 🌐 Project Site ResumeProject http://amandeepsingh.pythonanywhere.com/
 
